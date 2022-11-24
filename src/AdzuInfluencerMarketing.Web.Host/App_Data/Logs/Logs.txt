@@ -1,0 +1,159 @@
+DEBUG 2022-11-24 11:05:50,546 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2022-11-24 11:05:51,149 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2022-11-24 11:05:51,225 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.Web.Host.Startup.AdzuInfluencerMarketingWebHostModule, AdzuInfluencerMarketing.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,229 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.AdzuInfluencerMarketingWebCoreModule, AdzuInfluencerMarketing.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,231 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.AdzuInfluencerMarketingApplicationModule, AdzuInfluencerMarketing.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,232 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.AdzuInfluencerMarketingCoreModule, AdzuInfluencerMarketing.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,232 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,233 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,233 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,234 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,234 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.EntityFrameworkCore.AdzuInfluencerMarketingEntityFrameworkModule, AdzuInfluencerMarketing.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,235 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,235 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,235 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,236 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,236 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,236 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:51,241 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2022-11-24 11:05:51,485 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 11:05:51,486 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 11:05:51,486 [1    ] o.Configuration.LanguageManagementConfig - Converted AdzuInfluencerMarketing (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 11:05:51,486 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 11:05:52,369 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: AdzuInfluencerMarketing.EntityFrameworkCore.AdzuInfluencerMarketingDbContext, AdzuInfluencerMarketing.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:05:54,183 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2022-11-24 11:05:54,276 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2022-11-24 11:05:54,303 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2022-11-24 11:05:54,314 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AdzuInfluencerMarketing
+DEBUG 2022-11-24 11:05:54,324 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2022-11-24 11:05:55,091 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2022-11-24 11:05:55,376 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[AdzuInfluencerMarketing.MultiTenancy.Tenant, AdzuInfluencerMarketing.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[AdzuInfluencerMarketing.Authorization.Users.User, AdzuInfluencerMarketing.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2022-11-24 11:05:55,477 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2022-11-24 11:05:55,477 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2022-11-24 11:05:55,488 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Users.Dto.CreateUserDto
+DEBUG 2022-11-24 11:05:55,489 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Users.Dto.UserDto
+DEBUG 2022-11-24 11:05:55,490 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2022-11-24 11:05:55,490 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Sessions.Dto.UserLoginInfoDto
+DEBUG 2022-11-24 11:05:55,490 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Roles.Dto.PermissionDto
+DEBUG 2022-11-24 11:05:55,490 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2022-11-24 11:05:55,491 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.MultiTenancy.Dto.TenantDto
+DEBUG 2022-11-24 11:08:48,055 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2022-11-24 11:08:48,258 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2022-11-24 11:08:48,309 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.Web.Host.Startup.AdzuInfluencerMarketingWebHostModule, AdzuInfluencerMarketing.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,312 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.AdzuInfluencerMarketingWebCoreModule, AdzuInfluencerMarketing.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,313 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.AdzuInfluencerMarketingApplicationModule, AdzuInfluencerMarketing.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,313 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.AdzuInfluencerMarketingCoreModule, AdzuInfluencerMarketing.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,314 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,314 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,314 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,315 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,315 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.EntityFrameworkCore.AdzuInfluencerMarketingEntityFrameworkModule, AdzuInfluencerMarketing.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,316 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,316 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,316 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,316 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,317 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,317 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:48,321 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2022-11-24 11:08:48,458 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 11:08:48,459 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 11:08:48,459 [1    ] o.Configuration.LanguageManagementConfig - Converted AdzuInfluencerMarketing (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 11:08:48,459 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 11:08:49,238 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: AdzuInfluencerMarketing.EntityFrameworkCore.AdzuInfluencerMarketingDbContext, AdzuInfluencerMarketing.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 11:08:50,964 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2022-11-24 11:08:51,022 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2022-11-24 11:08:51,035 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2022-11-24 11:08:51,043 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AdzuInfluencerMarketing
+DEBUG 2022-11-24 11:08:51,049 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2022-11-24 11:08:51,375 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2022-11-24 11:08:51,585 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[AdzuInfluencerMarketing.MultiTenancy.Tenant, AdzuInfluencerMarketing.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[AdzuInfluencerMarketing.Authorization.Users.User, AdzuInfluencerMarketing.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2022-11-24 11:08:51,649 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2022-11-24 11:08:51,649 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2022-11-24 11:08:51,655 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Users.Dto.CreateUserDto
+DEBUG 2022-11-24 11:08:51,656 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Users.Dto.UserDto
+DEBUG 2022-11-24 11:08:51,657 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2022-11-24 11:08:51,657 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Sessions.Dto.UserLoginInfoDto
+DEBUG 2022-11-24 11:08:51,657 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Roles.Dto.PermissionDto
+DEBUG 2022-11-24 11:08:51,657 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2022-11-24 11:08:51,657 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.MultiTenancy.Dto.TenantDto
+DEBUG 2022-11-24 12:11:50,480 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2022-11-24 12:11:50,636 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2022-11-24 12:11:50,681 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.Web.Host.Startup.AdzuInfluencerMarketingWebHostModule, AdzuInfluencerMarketing.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,684 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.AdzuInfluencerMarketingWebCoreModule, AdzuInfluencerMarketing.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,685 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.AdzuInfluencerMarketingApplicationModule, AdzuInfluencerMarketing.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,685 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.AdzuInfluencerMarketingCoreModule, AdzuInfluencerMarketing.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,686 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,686 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,687 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,687 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,688 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AdzuInfluencerMarketing.EntityFrameworkCore.AdzuInfluencerMarketingEntityFrameworkModule, AdzuInfluencerMarketing.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,689 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,689 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,690 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,690 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,691 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,691 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:50,697 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2022-11-24 12:11:50,866 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 12:11:50,867 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 12:11:50,867 [1    ] o.Configuration.LanguageManagementConfig - Converted AdzuInfluencerMarketing (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 12:11:50,867 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-11-24 12:11:51,779 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: AdzuInfluencerMarketing.EntityFrameworkCore.AdzuInfluencerMarketingDbContext, AdzuInfluencerMarketing.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-11-24 12:11:54,214 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2022-11-24 12:11:54,305 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2022-11-24 12:11:54,340 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2022-11-24 12:11:54,354 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AdzuInfluencerMarketing
+DEBUG 2022-11-24 12:11:54,368 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2022-11-24 12:11:54,907 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2022-11-24 12:11:55,253 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[AdzuInfluencerMarketing.MultiTenancy.Tenant, AdzuInfluencerMarketing.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[AdzuInfluencerMarketing.Authorization.Users.User, AdzuInfluencerMarketing.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2022-11-24 12:11:55,360 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2022-11-24 12:11:55,360 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2022-11-24 12:11:55,377 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Users.Dto.CreateUserDto
+DEBUG 2022-11-24 12:11:55,378 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Users.Dto.UserDto
+DEBUG 2022-11-24 12:11:55,379 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2022-11-24 12:11:55,379 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Sessions.Dto.UserLoginInfoDto
+DEBUG 2022-11-24 12:11:55,379 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.Roles.Dto.PermissionDto
+DEBUG 2022-11-24 12:11:55,379 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2022-11-24 12:11:55,380 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AdzuInfluencerMarketing.MultiTenancy.Dto.TenantDto
+INFO  2022-11-24 12:12:04,706 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar,ja,zh-Hans
+INFO  2022-11-24 12:12:05,586 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\himanshu.chawla\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2022-11-24 12:12:05,626 [1    ] taProtection.KeyManagement.XmlKeyManager - Creating key {5f9c8804-c77c-42b5-b7c5-cd937c050823} with creation date 2022-11-24 06:42:05Z, activation date 2022-11-24 06:42:05Z, and expiration date 2023-02-22 06:42:05Z.
+INFO  2022-11-24 12:12:05,691 [1    ] ion.Repositories.FileSystemXmlRepository - Writing data to file 'C:\Users\himanshu.chawla\AppData\Local\ASP.NET\DataProtection-Keys\key-5f9c8804-c77c-42b5-b7c5-cd937c050823.xml'.
+INFO  2022-11-24 12:12:05,855 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2022-11-24 12:12:06,084 [11   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'AdzuInfluencerMarketing.Web.Host.Controllers.HomeController.Index (AdzuInfluencerMarketing.Web.Host)'
+INFO  2022-11-24 12:12:16,283 [11   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller AdzuInfluencerMarketing.Web.Host.Controllers.HomeController (AdzuInfluencerMarketing.Web.Host).
+INFO  2022-11-24 12:12:19,878 [5    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2022-11-24 12:12:19,895 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action AdzuInfluencerMarketing.Web.Host.Controllers.HomeController.Index (AdzuInfluencerMarketing.Web.Host) in 3599.7579ms
+INFO  2022-11-24 12:12:19,901 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'AdzuInfluencerMarketing.Web.Host.Controllers.HomeController.Index (AdzuInfluencerMarketing.Web.Host)'
+INFO  2022-11-24 12:12:19,934 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2022-11-24 12:12:19,945 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 14090.2827ms 302 
+INFO  2022-11-24 12:12:20,019 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 84.1974ms 301 
+INFO  2022-11-24 12:12:20,025 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2022-11-24 12:12:20,136 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 109.795ms 200 text/html;charset=utf-8
+INFO  2022-11-24 12:12:20,155 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2022-11-24 12:12:20,160 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2022-11-24 12:12:20,226 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2022-11-24 12:12:20,226 [5    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2022-11-24 12:12:20,235 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 73.3667ms 200 application/javascript
+INFO  2022-11-24 12:12:20,237 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 78.3163ms 200 text/css
+INFO  2022-11-24 12:12:20,242 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2022-11-24 12:12:20,256 [5    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2022-11-24 12:12:20,261 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2022-11-24 12:12:20,271 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 18.6949ms 200 application/javascript
+INFO  2022-11-24 12:12:20,291 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'C:\Users\himanshu.chawla\Downloads\AdzuInfluencerMarketing\5.8.1\aspnet-core\src\AdzuInfluencerMarketing.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2022-11-24 12:12:20,295 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 34.415ms 200 application/javascript
+INFO  2022-11-24 12:12:20,321 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2022-11-24 12:12:20,327 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'C:\Users\himanshu.chawla\Downloads\AdzuInfluencerMarketing\5.8.1\aspnet-core\src\AdzuInfluencerMarketing.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2022-11-24 12:12:20,332 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10.0355ms 200 application/javascript
+INFO  2022-11-24 12:12:20,632 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2022-11-24 12:12:20,644 [11   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'AdzuInfluencerMarketing.Web.Host.Controllers.AntiForgeryController.SetCookie (AdzuInfluencerMarketing.Web.Host)'
+INFO  2022-11-24 12:12:20,672 [11   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller AdzuInfluencerMarketing.Web.Host.Controllers.AntiForgeryController (AdzuInfluencerMarketing.Web.Host).
+INFO  2022-11-24 12:12:20,737 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2022-11-24 12:12:20,744 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2022-11-24 12:12:20,799 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2022-11-24 12:12:20,809 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2022-11-24 12:12:20,816 [12   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 17.5596ms 200 image/png
+INFO  2022-11-24 12:12:21,080 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action AdzuInfluencerMarketing.Web.Host.Controllers.AntiForgeryController.SetCookie (AdzuInfluencerMarketing.Web.Host) in 401.5196ms
+INFO  2022-11-24 12:12:21,087 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'AdzuInfluencerMarketing.Web.Host.Controllers.AntiForgeryController.SetCookie (AdzuInfluencerMarketing.Web.Host)'
+INFO  2022-11-24 12:12:21,094 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 462.5055ms 200 application/json; charset=utf-8
+INFO  2022-11-24 12:12:21,150 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 404.971ms 200 application/json;charset=utf-8
